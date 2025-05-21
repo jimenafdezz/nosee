@@ -8,7 +8,7 @@ sigo con la prueba que nose que es esto
 ### titulin feo
 fresco fresquisimo
 *texto en cursiva nene*
---- separador que es esto
+--- 
 **texto en negroo**
 
 ***texto rancio***
