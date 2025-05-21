@@ -35,4 +35,5 @@ nose que coño poner jiji`
 -[] esto es igual que el otro
 
 ~~tachado de mi vida~~
-<u>Esto está subrayado</u>
+
+<u> Esto está subrayado nose donde </u>
