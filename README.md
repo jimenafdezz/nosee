@@ -18,3 +18,5 @@ que coño es esto a ver
 nose que es esto
 > se supone que esto hace algo 
 `codigo en linea`
+`a ver algo de java porque
+nose que coño poner jiji` 
