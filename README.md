@@ -30,6 +30,6 @@ nose que coño poner jiji`
 |-------|------|-------|
 | yonose|yomenos|yonidea|
 
--[] nose el amigo me dijo esto
--[x] no se hizo esto
--[] esto es igual que el otro
+[]nose el amigo me dijo esto
+[x] no se hizo esto
+[]esto es igual que el otro
