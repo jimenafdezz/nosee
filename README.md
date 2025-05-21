@@ -33,3 +33,6 @@ nose que coño poner jiji`
 -[] nose el amigo me dijo esto
 -[x] no se hizo esto
 -[] esto es igual que el otro
+
+~~tachado de mi vida~~
+<u>Esto está subrayado</u>
