@@ -23,4 +23,5 @@ nose que coño poner jiji`
 
 [esto es un enlace de basura](https://search.brave.com/search?q=hola&source=desktop)
 
-![esto es una maravillosa imagen](![familia-playa-s311247911](https://github.com/user-attachments/assets/a49941ab-cd9d-4361-a855-62ccf7800b59)
+foton
+(![familia-playa-s311247911](https://github.com/user-attachments/assets/a49941ab-cd9d-4361-a855-62ccf7800b59)
