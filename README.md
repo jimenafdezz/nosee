@@ -25,3 +25,7 @@ nose que coño poner jiji`
 
 # una imagen tonta
 ![familia-playa-s311247911](https://github.com/user-attachments/assets/a49941ab-cd9d-4361-a855-62ccf7800b59)
+
+| a ver | esto | que es|
+|-------|------|-------|
+| yonose|yomenos|yonidea|
