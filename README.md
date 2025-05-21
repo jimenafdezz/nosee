@@ -1,4 +1,4 @@
-# hola esto nose que es
+# hola soy importante
 esto es una linea de prueba porque yo lo digo
 ## esto es otro ejemplin
 sigo con la prueba que nose que es esto
@@ -29,3 +29,7 @@ nose que coño poner jiji`
 | a ver | esto | que es|
 |-------|------|-------|
 | yonose|yomenos|yonidea|
+
+-[] nose el amigo me dijo esto
+-[x] no se hizo esto
+-[] esto es igual que el otro
